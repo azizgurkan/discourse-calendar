@@ -1,0 +1,12 @@
+{
+  "name": "Etkinlikler",
+  "about_url": "https://meta.discourse.org/t/discourse-calendar/97376",
+  "license_url": null,
+  "authors": "discourse",
+  "minimum_discourse_version": "2.5.0.beta2",
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "component": true
+}
